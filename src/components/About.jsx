@@ -59,7 +59,7 @@ const About = () => {
             </h1>
             <p className="text-lg mt-5 text-gray-600 primary-font">
               Edtech platform offering expert mentorship with our tech-powered
-              courses in various languages of India.
+              courses in various languages of pakistan.
             </p>
           </div>
 
