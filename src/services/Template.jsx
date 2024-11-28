@@ -1,9 +1,10 @@
+/* eslint-disable react/prop-types */
  import CtaButton from "../components/CtaButton";
 import { Link } from "react-router-dom";
 // import Newsletter from "../components/Newsletter";
 // import Footer from "../components/Footer";
 
-const Template = () => {
+const Template = ({ title, desc, image }) => {
   return (
     <>
       <div className="secondary-font bg-red-900">
