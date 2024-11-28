@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from "react";
+  import  { useEffect, useState } from "react";
 import CtaButton from "./CtaButton";
 import VideoBtn from "./VideoBtn";
 import img from "../img/about-img.svg";

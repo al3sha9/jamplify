@@ -1,5 +1,4 @@
-import React from "react";
-import image from "../img/portfolio/app-2.jpg";
+ import image from "../img/portfolio/app-2.jpg";
 import Template from "./Template";
 import NavBar from "../components/NavBar";
 import Newsletter from "../components/Newsletter";

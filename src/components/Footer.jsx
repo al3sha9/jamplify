@@ -1,4 +1,4 @@
-import React, {useEffect } from "react";
+  import  {useEffect } from "react";
 import { IoLogoTwitter } from "react-icons/io";
 import { IoLogoFacebook } from "react-icons/io5";
 import { IoLogoInstagram } from "react-icons/io5";

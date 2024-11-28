@@ -1,4 +1,4 @@
-import React, { useEffect, useRef, useState } from "react";
+  import  { useEffect, useRef, useState } from "react";
 import { gsap } from "gsap";
 import CtaButton from "./CtaButton";
 import VideoBtn from "./VideoBtn";
@@ -76,7 +76,7 @@ const Hero = () => {
       </div>
 
       {/* Adding video */}
-      {/* 
+      {/*
       <div className={`${show ? "block" : "hidden"} absolute lg:w-full lg:m-5 lg:h-full bg-zinc-500 bg-opacity-50 rounded overflow-hidden flex justify-center items-center shadow-2xl lg:mb-20 transition-all duration-300`}>
         <div onClick={()=> clickHandler()} className="absolute lg:right-10 right-2 lg:top-6 top-2 lg:px-3 px-[0.6rem] rounded-s-full lg:text-3xl text-xl font-light bg-zinc-700 rounded-full text-white cursor-pointer">
           x

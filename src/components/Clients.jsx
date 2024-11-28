@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+  import  { useEffect } from "react";
 import client1 from "../img/clients/client-1.png";
 import client2 from "../img/clients/client-2.png";
 import client3 from "../img/clients/client-3.png";

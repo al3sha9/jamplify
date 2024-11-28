@@ -1,10 +1,9 @@
-import React from "react";
-import CtaButton from "../components/CtaButton";
+ import CtaButton from "../components/CtaButton";
 import { Link } from "react-router-dom";
-import Newsletter from "../components/Newsletter";
-import Footer from "../components/Footer";
+// import Newsletter from "../components/Newsletter";
+// import Footer from "../components/Footer";
 
-const Template = ({ title, desc, image }) => {
+const Template = () => {
   return (
     <>
       <div className="secondary-font bg-red-900">

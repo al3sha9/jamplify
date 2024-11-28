@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+  import  { useEffect } from "react";
 import Card from "./Card";
 import { HiOutlineChartPie } from "react-icons/hi2";
 

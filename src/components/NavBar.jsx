@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+  import  { useState } from "react";
 import { RxHamburgerMenu } from "react-icons/rx";
 import CtaButton from "./CtaButton";
 import { useNavigate } from "react-router-dom";

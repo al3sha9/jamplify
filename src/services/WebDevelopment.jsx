@@ -1,9 +1,8 @@
-import React from "react";
-import Template from "./Template";
+ import Template from "./Template";
 import image from "../img/portfolio/app-3.jpg";
 import NavBar from "../components/NavBar";
-import Newsletter from "../components/Newsletter";
-import Footer from "../components/Footer";
+// import Newsletter from "../components/Newsletter";
+// import Footer from "../components/Footer";
 
 const WebDevelopment = () => {
   return (

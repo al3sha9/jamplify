@@ -1,5 +1,4 @@
-import React from "react";
-import Routings from "../utils/Routings";
+ import Routings from "../utils/Routings";
 
 
 

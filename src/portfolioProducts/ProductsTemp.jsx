@@ -1,5 +1,4 @@
-import React from "react";
-// import app3 from "../img/portfolio/app-2.jpg";
+ // import app3 from "../img/portfolio/app-2.jpg";
 import NavBar from "../components/NavBar";
 import Newsletter from "../components/Newsletter";
 import Footer from "../components/Footer";

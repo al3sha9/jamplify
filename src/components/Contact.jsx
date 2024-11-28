@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+  import  { useEffect } from "react";
 import { IoLocationOutline } from "react-icons/io5";
 import { IoCallOutline } from "react-icons/io5";
 import { TfiEmail } from "react-icons/tfi";

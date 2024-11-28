@@ -1,4 +1,4 @@
-import React, { useEffect } from "react";
+  import  { useEffect } from "react";
 
 // aos
 import AOS from "aos";
@@ -38,7 +38,7 @@ const Hireus = () => {
           data-aos-duration="1600"
           className="lg:w-[60%] h-fit px-10 py-5 shadow-xl border-t-[3px] border-b-[3px] border-orange-600 bg-white"
         >
-          
+
           <form onSubmit={handleSubmit(onSubmit)}>
             <div className="md:flex gap-6">
               <div className="md:w-[50%]">
@@ -94,7 +94,7 @@ const Hireus = () => {
             </div>
           </form>
         </div>
-        
+
       </div>
       <section className="w-full max-h-fit py-16 lg:px-32 overflow-hidden bg-[#FEFAF8] border-b border-orange-100 mt-20 md:mt-0">
         <Newsletter />
