@@ -27,7 +27,7 @@ const Routings = () => {
         <Route path="/seo-optimization" element={<Seo />} />
         <Route path="/campagin-creation" element={<Campaign />} />
         <Route path="/hireus" element={<Hireus />} />
-        <Route path="Marketing-Website/portfolio">
+        <Route path="/portfolio">
           <Route path="app1" element={<ProductsTemp img={app1} />} />
           <Route path="product1" element={<ProductsTemp img={product1} />} />
           <Route path="brand1" element={<ProductsTemp img={branding1} />} />
